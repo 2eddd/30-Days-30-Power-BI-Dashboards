@@ -2,7 +2,7 @@
 
 ## Daily Progress
 
-- **Day 2:** Seasonal Sales
+- **Day 3:** Seasonal Sales
   - **Objective:** Create a dashboard depicting seasonal sales.
   - **Learnings:**
     - Area Chart Mastery: Grasped the fundamentals of Area Charts for insightful data representation.
