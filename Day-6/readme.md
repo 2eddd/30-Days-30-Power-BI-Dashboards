@@ -3,7 +3,7 @@
 ## Daily Progress
 
 - **Day 6:** Financial Report and Analysis
-  - **Objective:** Insights into Amazon Prime Video Movies and Shows.
+  - **Objective:** A deep dive into the financial report
   - **Learnings:**
     - Stacked Column Charts
     - DAX
