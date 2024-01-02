@@ -3,7 +3,7 @@
 ## Daily Progress
 
 - **Day 6:** Financial Report and Analysis
-  - **Objective:** A deep dive into the financial report
+  - **Objective:** A deep dive into Sales and Revenue
   - **Learnings:**
     - Stacked Column Charts
     - DAX
