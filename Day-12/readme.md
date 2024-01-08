@@ -2,4 +2,4 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: Moon Landing Analysis Dashboard**
+**Dashboard Showcase: Mart Sales Dashboard**
