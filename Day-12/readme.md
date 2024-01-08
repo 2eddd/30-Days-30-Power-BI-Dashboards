@@ -2,4 +2,4 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: Mart Sales Dashboard**
+**Dashboard Showcase: Sales Analysis Dashboard**
