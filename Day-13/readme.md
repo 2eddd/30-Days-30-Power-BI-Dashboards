@@ -2,7 +2,7 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: Comparative Sales Analysis Dashboard, uncovering valuable insights into orders, revenue, and product dynamics**
+**Dashboard Showcase: Sales Analysis Dashboard, uncovering valuable insights into orders, revenue, and product dynamics**
 
 Key Metrics:
 - Total Orders: Illustrating the overall order volume, providing a snapshot of sales activity.
