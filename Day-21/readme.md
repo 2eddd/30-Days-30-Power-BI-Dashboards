@@ -2,12 +2,10 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: CO2 Emission by different Sectors Analysis Dashboard**
+**Dashboard Showcase: CO2 Emission Analysis Dashboard**
 
 Key Metrics:
-- Total Area and Production Overview: Unveiling the comprehensive landscape of crop production with insights into total area and production.
-- State-wise Production: Breaking down total production by state, offering a granular view of crop yields across the country.
-- Crop Year and Season Analysis: Analyzing production trends based on crop year and season, identifying patterns crucial for agricultural planning.
-- District-wise Breakdown: Delving into production and area statistics at the district level, providing localized insights for targeted decision-making.
-- Production and Area by Season: Visualizing the correlation between total area and production in each season, offering strategic insights for farmers and policymakers.
-- Tabular Insights: A concise table showcasing state names alongside the sum of production, providing a quick reference for stakeholders.
+- Total CO2 Emission by Country: Visualizing the overall carbon footprint of countries, promoting awareness and accountability.
+- CO2 Emission Breakdown by Sector: Offering a comprehensive view of emissions across different industries for targeted environmental initiatives.
+- Total CO2 Emission Over Years, Sector-wise: Analyzing the trends in emissions over various years, providing a historical perspective on sector-specific impacts.
+- CO2 Emission by Timestamp and Sector: Understanding emission patterns over time and across sectors, fostering data-driven sustainability decisions.
