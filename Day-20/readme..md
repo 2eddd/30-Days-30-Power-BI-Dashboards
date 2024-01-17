@@ -11,4 +11,3 @@ Key Metrics:
 - District-wise Breakdown: Delving into production and area statistics at the district level, providing localized insights for targeted decision-making.
 - Production and Area by Season: Visualizing the correlation between total area and production in each season, offering strategic insights for farmers and policymakers.
 - Tabular Insights: A concise table showcasing state names alongside the sum of production, providing a quick reference for stakeholders.
-
