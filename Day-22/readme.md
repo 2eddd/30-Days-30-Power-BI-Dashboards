@@ -5,7 +5,9 @@
 **Dashboard Showcase: Cryptocurrency Analysis Dashboard**
 
 Key Metrics:
-- Total CO2 Emission by Country: Visualizing the overall carbon footprint of countries, promoting awareness and accountability.
-- CO2 Emission Breakdown by Sector: Offering a comprehensive view of emissions across different industries for targeted environmental initiatives.
-- Total CO2 Emission Over Years, Sector-wise: Analyzing the trends in emissions over various years, providing a historical perspective on sector-specific impacts.
-- CO2 Emission by Timestamp and Sector: Understanding emission patterns over time and across sectors, fostering data-driven sustainability decisions.
+- Cryptocurrency Overview: Unveiling essential details, including the names of cryptocurrencies.
+- Average Market Capital: Understanding the average market capital across the crypto landscape.
+- Total Market Capital: Analyzing the cumulative market capital of all cryptocurrencies.
+- Volume Insights: Delving into the trading volume for comprehensive market analysis.
+- Max High and Min Low: Highlighting the maximum high and minimum low values for each cryptocurrency.
+
