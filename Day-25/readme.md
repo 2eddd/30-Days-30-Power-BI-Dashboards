@@ -2,13 +2,11 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: Car Sales and Performance Metrics Analysis Dashboard**
+**Dashboard Showcase: Screen Time Analysis Dashboard**
 
 Key Metrics:
-- List of Cars by Models: Comprehensive insight into the array of car models in focus.
-- Production Cost Analysis: Unveiling the production costs associated with each car model.
-- Sales Performance: Breaking down the sales figures for a detailed understanding.
-- Profit/Loss Overview: Analyzing the financial health with a clear view of profit or loss.
-- Profit/Loss Percentage: Calculating the profit or loss percentage for strategic decision-making.
-- Trip Capacity Assessment: Understanding the car's trip capacity, a crucial factor in market competitiveness.
-- Torque Analysis: Delving into the performance metric of torque for each car model.
+- Daily Productivity: Unveiling productive hours each day, offering a snapshot of daily accomplishments.
+- Daily Reading Sessions: Breaking down reading time spent per day, encouraging a reading habit analysis.
+- Daily Fitness Sessions: Visualizing daily fitness routines, promoting a healthy lifestyle.
+- Daywise Screen Time Analysis: Understanding screen usage patterns day by day for effective time management.
+- Social Network Analytics: Exploring minutes spent on social networks, fostering digital well-being awareness.
