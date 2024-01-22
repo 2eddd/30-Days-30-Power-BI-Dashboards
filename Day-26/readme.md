@@ -2,14 +2,11 @@
 
 ## Daily Progress
 
-**Dashboard Showcase: Sleep Analysis Report Dashboard**
+**Dashboard Showcase: American Bank Loan Analysis Dashboard**
 
 Key Metrics:
-- Average Age by Gender: Unveiling demographic trends, analyzing the average age of individuals categorized by gender.
-- Physical Activity Level by Occupation: Visualizing the correlation between physical activity levels and occupation for informed lifestyle decisions.
-- Sum of Quality of Sleep by Occupation: Gauging the overall sleep quality, summing it up across different occupations.
-- Average Age: Understanding the general age distribution for more targeted health insights.
-- Count of Blood Pressure: Providing a count of blood pressure records for comprehensive health monitoring.
-- Sum of Heart Rate by Gender: Analyzing heart rate patterns, summing them up for each gender.
-- Sum of Heart Rate by Occupation: Unveiling the impact of occupation on heart rate with a cumulative representation.
-- Sum of Sleep Duration by Occupation: Understanding sleep duration trends, summing them up across various occupations.
+- Balance Breakdown by Marital Status and Other Loans: Visualizing the financial landscape based on marital status and other loan classifications.
+- Balance Analysis by House Loan: Examining account balances in correlation with house loans, providing strategic financial insights.
+- Balance Insights by Education Level: Understanding account balances across different education levels for targeted financial planning.
+- Quarterly Classification: Classifying data quarterly for a deeper understanding of financial trends throughout the year.
+- State and Job Classification Overview: Exploring financial dynamics through state and job classifications.
